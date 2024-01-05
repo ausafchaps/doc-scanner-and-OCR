@@ -1,0 +1,15 @@
+( )
+
+MURTAZA'S
+
+worRKk« & HW O P
+
+DOCUMENT SCANNER
+USING OPENCV
+
+Keywords
+
+OpenCV, Python, Contours, Corner Detection,
+Thresholding, Edge Detection, Webcam Feed,
+Warp Prespective, GrayScale, Image Stacking.
+
